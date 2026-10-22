@@ -1,0 +1,5 @@
+interface:
+  display_name: "学院 AI 比赛"
+  short_description: "先讨论想法，再实做截图，用原样画面与简短文字完成学院 AI 比赛图文材料"
+  default_prompt: "使用 $campus-ai-competition，根据比赛要求先和我讨论想法与演示方案，再完成作品和以原样截图为主的参赛文档。"
+
